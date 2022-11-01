@@ -37,6 +37,7 @@
   #icon{
     display: block;
   }
+  
   nav ul{
     position: fixed;
     width: 100%;
@@ -92,6 +93,6 @@
     width: 21rem;
     border-radius: 5px;
   }
-.logo{
-  padding:  100px;
+  .logo {
+    padding: 0px;
 }
