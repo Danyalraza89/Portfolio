@@ -37,7 +37,12 @@
   #icon{
     display: block;
   }
-  
+  nav{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: black;
+  }  
   nav ul{
     position: fixed;
     width: 100%;
